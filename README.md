@@ -52,5 +52,5 @@ Made by ~~24a~~ 24a's cat with ❤️
 Enjoy!
 
 ## Other Project
-[WarpPlusKeyGenerator-NG-lib](https://github.com/cmd1152/WarpPlusKeyGenerator-NG-lib)
+[WarpPlusKeyGenerator-NG-lib](https://github.com/cmd1152/WarpPlusKeyGenerator-NG-lib)  
 [Warp_Key_Generator](https://github.com/mizutama1233/Warp_Key_Generator)
